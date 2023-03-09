@@ -56,9 +56,6 @@
 
 </details>
 
-### Latest Tweets
-
-<p><a href="https://www.twitter.com/itgoyo"><img src="https://github-readme-twitter-gazf.vercel.app/api?id=itgoyo&amp;layout=wide" alt="github-readme-twitter"></a></p>
 
 ### 🎧 Spotify Playing
 
