@@ -25,12 +25,9 @@
 
 ![Holix's GitHub stats](https://github-readme-stats.vercel.app/api?username=HOLIX13&show_icons=true&theme=radical)
 
-
 ![](https://raw.githubusercontent.com/holix13/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/holix13/github-stats-transparent/output/generated/languages.svg)
 
 ### 🎧 Spotify Playing
 
-![spotify-github-profile](/img/default.svg)
-
-<!-- https://spotify-github-profile.vercel.app/api/view?uid=31kftouh357illan6barnci4oz3e&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false -->
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31kftouh357illan6barnci4oz3e&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/holix13/spotify-github-profile)
