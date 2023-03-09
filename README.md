@@ -47,23 +47,11 @@
 ![](https://raw.githubusercontent.com/holix13/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/holix13/github-stats-transparent/output/generated/languages.svg)
 
-<details open>
- <summary> 😇 <b>Medium Published articles</b>: </summary>
-<br>
-    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@holix13/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@holix13/0" alt="Recent Article 0"></a>
-  <br>
-    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@holix13/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@holix13/1" alt="Recent Article 1"></a>
-  <br>
-    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@holix13/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@holix13/2" alt="Recent Article 2"></a>
-  <br>
-
-</details>
-
 ### 🎧 Spotify Playing
 
 ![spotify-github-profile](/img/default.svg)
 
-<!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=g9mmploi6sdrg6sk0xosqex2u&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile) -->
+<!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31kftouh357illan6barnci4oz3e&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile) -->
 
 ### :dart: Weekly Fuck The Code
 
