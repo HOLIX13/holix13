@@ -1,10 +1,10 @@
 <!-- <p align="center">
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/itgoyo/count.svg" />
+  <img src="https://profile-counter.glitch.me/holix13/count.svg" />
 </p> -->
 
 <p>
-  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:itgoyo"></a>
+  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:holix13"></a>
   <img src="https://weather-icon.journeyad.repl.co/@dubai?v=1" align="right">
 </p>
 
@@ -42,19 +42,19 @@
 <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
 <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=itgoyo&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=holix13&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
-![](https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/languages.svg)
+![](https://raw.githubusercontent.com/holix13/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/holix13/github-stats-transparent/output/generated/languages.svg)
 
 <details open>
  <summary> 😇 <b>Medium Published articles</b>: </summary>
 <br>
-    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@itgoyo/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@itgoyo/0" alt="Recent Article 0"></a>
+    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@holix13/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@holix13/0" alt="Recent Article 0"></a>
   <br>
-    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@itgoyo/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@itgoyo/1" alt="Recent Article 1"></a>
+    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@holix13/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@holix13/1" alt="Recent Article 1"></a>
   <br>
-    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@itgoyo/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@itgoyo/2" alt="Recent Article 2"></a>
+    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@holix13/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@holix13/2" alt="Recent Article 2"></a>
   <br>
 
 </details>
