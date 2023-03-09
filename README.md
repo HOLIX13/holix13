@@ -21,10 +21,10 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=holix13&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Holix's GitHub stats](https://github-readme-stats.vercel.app/api?username=HOLIX13&show_icons=true&theme=radical)
+
 
 ![](https://raw.githubusercontent.com/holix13/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/holix13/github-stats-transparent/output/generated/languages.svg)
@@ -33,16 +33,4 @@
 
 ![spotify-github-profile](/img/default.svg)
 
-<!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31kftouh357illan6barnci4oz3e&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile) -->
-
-### :dart: Weekly Fuck The Code
-
-<!--START_SECTION:waka-->
-
-```text
-Text       30 mins         █████████████████▓░░░░░░░   70.39 %
-TOML       12 mins         ███████▒░░░░░░░░░░░░░░░░░   29.23 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
-```
-
-<!--END_SECTION:waka-->
+<!-- http://localhost:3000/api/view?uid=31kftouh357illan6barnci4oz3e&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false) -->
