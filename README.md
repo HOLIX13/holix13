@@ -33,4 +33,4 @@
 
 ![spotify-github-profile](/img/default.svg)
 
-<!-- http://localhost:3000/api/view?uid=31kftouh357illan6barnci4oz3e&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false) -->
+<!-- https://spotify-github-profile.vercel.app/api/view?uid=31kftouh357illan6barnci4oz3e&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false -->
