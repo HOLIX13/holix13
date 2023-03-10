@@ -3,10 +3,6 @@
   <img src="https://profile-counter.glitch.me/holix13/count.svg" />
 </p> -->
 
-<p>
-  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:holix13"></a>
-  <img src="https://weather-icon.journeyad.repl.co/@dubai?v=1" align="right">
-</p>
 
 <h1 align="center">Hi 👋, I'm Ikhtier</h1>
 <h3 align="center">QA Automation Engineer</h3>
