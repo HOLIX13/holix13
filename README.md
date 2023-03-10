@@ -30,4 +30,4 @@
 
 ### 🎧 Spotify Playing
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31kftouh357illan6barnci4oz3e&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/holix13/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31kftouh357illan6barnci4oz3e&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=false&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31kftouh357illan6barnci4oz3e&redirect=true)
